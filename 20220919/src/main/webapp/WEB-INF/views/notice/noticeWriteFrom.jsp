@@ -8,10 +8,10 @@
 </head>
 <body>
 <div align="center">
-	<div><jsp:include page="../menu/menu.jsp" /></div>
+	
 	<div><h1>공지사항 등록</h1></div>
 	<div>
-		<form id="frm" action="noticeInsert.do" method="post">
+		<form id="frm" action="noticeInsert.do" method="post" enctype="multipart/form-data">
 			<div>
 				<table border="1">
 					<tr>

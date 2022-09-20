@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div align="center">
-	<div><jsp:include page="../menu/menu.jsp" /></div>
+	
 	<div><h1>공지사항 목록</h1></div>
 	<div>
 		<table border="1">

@@ -8,7 +8,7 @@
 </head>
 <body>
 <div align="center">
-	<div><jsp:include page="../menu/menu.jsp" /></div>
+	
 	<div><h1>로 그 인</h1></div>
 	<div>
 		<form  id="frm" action="memberLogin.do" method="post">

@@ -8,8 +8,7 @@
 </head>
 <body>
 <div align="center">
-	
-	<div><h1>${message }</h1></div>
+	<h1>My WebSite @CopyWrite by Micol Cho 2022.09.20</h1>
 </div>
 </body>
 </html>
