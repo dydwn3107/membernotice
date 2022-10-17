@@ -9,6 +9,11 @@
 <body>
 <div align="center">
 	<div><h1>WellCome to My WebSite</h1></div>
+	<div><h1>WellCome to My WebSite</h1></div>
+	<div><h1>WellCome to My WebSite</h1></div>
+	<div><h1>WellCome to My WebSite</h1></div>
+	<div><h1>WellCome to My WebSite</h1></div>
+	<div><h1>WellCome to My WebSite</h1></div>
 	<div>
 		<img alt="asdff" src="img/image1.jpg">
 	</div>
